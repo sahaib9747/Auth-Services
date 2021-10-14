@@ -1,8 +1,8 @@
 ## Features
-* Create Account
+* Create Accounts
 * Registraion
 * Log in
-* Checking exists emails
+* Checking existing emails
 * Prevents duplicate accounts
 
 You can try these things by running this application, The structure must be same, else it will cause error.
